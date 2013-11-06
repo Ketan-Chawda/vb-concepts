@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\INTERFACE_KEYWORD.Resources.resources
+obj\Debug\INTERFACE KEYWORD1.vbproj.GenerateResource.Cache
+bin\Debug\INTERFACE KEYWORD1.exe
+bin\Debug\INTERFACE KEYWORD1.pdb
+bin\Debug\INTERFACE KEYWORD1.xml
+obj\Debug\INTERFACE KEYWORD1.exe
+obj\Debug\INTERFACE KEYWORD1.xml
+obj\Debug\INTERFACE KEYWORD1.pdb
+obj\Debug\INTERFACE_KEYWORD.STUDENT.resources

@@ -1,0 +1,10 @@
+obj\Debug\GROUPBOX AND PANEL.exe
+obj\Debug\GROUPBOX AND PANEL.xml
+obj\Debug\GROUPBOX AND PANEL.pdb
+bin\Debug\GROUPBOX AND PANEL.exe
+bin\Debug\GROUPBOX AND PANEL.pdb
+bin\Debug\GROUPBOX AND PANEL.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GROUPBOX_AND_PANEL.Form1.resources
+obj\Debug\GROUPBOX_AND_PANEL.Resources.resources
+obj\Debug\GROUPBOX AND PANEL.vbproj.GenerateResource.Cache

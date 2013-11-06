@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="REDIM KEYWORD">
+</Property><Property Name="Solution File" Value="Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\REDIM KEYWORD.sln">
+</Property><Property Name="User Options File" Value="Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\REDIM KEYWORD.suo">
+</Property><Property Name="Date" Value="April-17-12">
+</Property><Property Name="Time" Value="13:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="REDIM KEYWORD.sln" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD.sln">
+</Event><Event ErrorLevel="0" Project="" Source="REDIM KEYWORD.suo" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD.suo">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\REDIM KEYWORD.vbproj" Description="Project file successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\REDIM KEYWORD.vbproj">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\Form1.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\Form1.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\Form1.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\AssemblyInfo.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Application.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Resources.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Settings.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Application.myapp" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Settings.settings" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\Form1.resx" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\Form1.resx">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\My Project\Resources.resx" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\REDIM KEYWORD\Backup\REDIM KEYWORD\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\REDIM KEYWORD.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="REDIM KEYWORD" Source="REDIM KEYWORD\REDIM KEYWORD.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="REDIM KEYWORD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="REDIM KEYWORD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="REDIM KEYWORD" Source="REDIM KEYWORD\REDIM KEYWORD.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

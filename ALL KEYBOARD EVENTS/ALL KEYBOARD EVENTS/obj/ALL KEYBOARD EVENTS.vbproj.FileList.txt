@@ -1,0 +1,10 @@
+bin\Debug\ALL KEYBOARD EVENTS.exe
+bin\Debug\ALL KEYBOARD EVENTS.pdb
+bin\Debug\ALL KEYBOARD EVENTS.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KEYBOARD_EVENTS.Form1.resources
+obj\Debug\KEYBOARD_EVENTS.Resources.resources
+obj\Debug\ALL KEYBOARD EVENTS.vbproj.GenerateResource.Cache
+obj\Debug\ALL KEYBOARD EVENTS.exe
+obj\Debug\ALL KEYBOARD EVENTS.xml
+obj\Debug\ALL KEYBOARD EVENTS.pdb

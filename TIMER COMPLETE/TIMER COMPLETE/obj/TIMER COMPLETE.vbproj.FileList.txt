@@ -1,0 +1,10 @@
+bin\Debug\TIMER COMPLETE.exe
+bin\Debug\TIMER COMPLETE.pdb
+bin\Debug\TIMER COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TIMER_COMPLETE.Form1.resources
+obj\Debug\TIMER_COMPLETE.Resources.resources
+obj\Debug\TIMER COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\TIMER COMPLETE.exe
+obj\Debug\TIMER COMPLETE.xml
+obj\Debug\TIMER COMPLETE.pdb

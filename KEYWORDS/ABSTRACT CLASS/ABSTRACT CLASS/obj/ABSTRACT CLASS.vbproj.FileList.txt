@@ -1,0 +1,10 @@
+bin\Debug\ABSTRACT CLASS.exe
+bin\Debug\ABSTRACT CLASS.pdb
+bin\Debug\ABSTRACT CLASS.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ABSTRACT_CLASS.Resources.resources
+obj\Debug\ABSTRACT CLASS.vbproj.GenerateResource.Cache
+obj\Debug\ABSTRACT CLASS.exe
+obj\Debug\ABSTRACT CLASS.xml
+obj\Debug\ABSTRACT CLASS.pdb
+obj\Debug\ABSTRACT_CLASS.CLIENT.resources

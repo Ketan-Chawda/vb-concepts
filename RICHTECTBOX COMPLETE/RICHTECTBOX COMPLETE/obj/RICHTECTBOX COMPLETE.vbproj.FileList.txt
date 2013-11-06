@@ -1,0 +1,10 @@
+bin\Debug\RICHTECTBOX COMPLETE.exe
+bin\Debug\RICHTECTBOX COMPLETE.pdb
+bin\Debug\RICHTECTBOX COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RICHTECTBOX_COMPLETE.Resources.resources
+obj\Debug\RICHTECTBOX COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\RICHTECTBOX COMPLETE.exe
+obj\Debug\RICHTECTBOX COMPLETE.xml
+obj\Debug\RICHTECTBOX COMPLETE.pdb
+obj\Debug\RICHTECTBOX_COMPLETE.Form1.resources

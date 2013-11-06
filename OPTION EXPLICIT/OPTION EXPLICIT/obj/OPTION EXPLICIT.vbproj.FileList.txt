@@ -1,0 +1,10 @@
+bin\Debug\OPTION EXPLICIT.exe
+bin\Debug\OPTION EXPLICIT.pdb
+bin\Debug\OPTION EXPLICIT.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OPTION_EXPLICIT.Resources.resources
+obj\Debug\OPTION EXPLICIT.vbproj.GenerateResource.Cache
+obj\Debug\OPTION EXPLICIT.exe
+obj\Debug\OPTION EXPLICIT.xml
+obj\Debug\OPTION EXPLICIT.pdb
+obj\Debug\OPTION_EXPLICIT.Form1.resources

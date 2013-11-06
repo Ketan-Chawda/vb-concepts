@@ -1,0 +1,10 @@
+obj\Debug\MESSAGEBOX AND INPUTBOX.exe
+obj\Debug\MESSAGEBOX AND INPUTBOX.xml
+obj\Debug\MESSAGEBOX AND INPUTBOX.pdb
+bin\Debug\MESSAGEBOX AND INPUTBOX.exe
+bin\Debug\MESSAGEBOX AND INPUTBOX.pdb
+bin\Debug\MESSAGEBOX AND INPUTBOX.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MESSAGEBOX_AND_INPUTBOX.Form1.resources
+obj\Debug\MESSAGEBOX_AND_INPUTBOX.Resources.resources
+obj\Debug\MESSAGEBOX AND INPUTBOX.vbproj.GenerateResource.Cache

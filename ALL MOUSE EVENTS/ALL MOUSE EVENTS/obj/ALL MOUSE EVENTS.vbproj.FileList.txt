@@ -1,0 +1,10 @@
+bin\Debug\ALL MOUSE EVENTS.exe
+bin\Debug\ALL MOUSE EVENTS.pdb
+bin\Debug\ALL MOUSE EVENTS.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ALL_MOUSE_EVENTS.Form1.resources
+obj\Debug\ALL_MOUSE_EVENTS.Resources.resources
+obj\Debug\ALL MOUSE EVENTS.vbproj.GenerateResource.Cache
+obj\Debug\ALL MOUSE EVENTS.exe
+obj\Debug\ALL MOUSE EVENTS.xml
+obj\Debug\ALL MOUSE EVENTS.pdb

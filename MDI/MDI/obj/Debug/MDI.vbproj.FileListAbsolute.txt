@@ -1,0 +1,13 @@
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\bin\Debug\MDI.exe
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\bin\Debug\MDI.pdb
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\bin\Debug\MDI.xml
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\ResolveAssemblyReference.cache
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\WindowsApplication1.Form1.resources
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\WindowsApplication1.Form2.resources
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\WindowsApplication1.Form3.resources
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\WindowsApplication1.Resources.resources
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\GenerateResource.read.1.tlog
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\GenerateResource.write.1.tlog
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\MDI.exe
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\MDI.xml
+Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\MDI\MDI\obj\Debug\MDI.pdb

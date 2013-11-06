@@ -1,0 +1,10 @@
+bin\Debug\REDIM KEYWORD.exe
+bin\Debug\REDIM KEYWORD.pdb
+bin\Debug\REDIM KEYWORD.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\REDIM_KEYWORD.Form1.resources
+obj\Debug\REDIM_KEYWORD.Resources.resources
+obj\Debug\REDIM KEYWORD.vbproj.GenerateResource.Cache
+obj\Debug\REDIM KEYWORD.exe
+obj\Debug\REDIM KEYWORD.xml
+obj\Debug\REDIM KEYWORD.pdb

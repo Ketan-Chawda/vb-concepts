@@ -1,0 +1,10 @@
+bin\Debug\LINK LABEL COMPLETE.exe
+bin\Debug\LINK LABEL COMPLETE.pdb
+bin\Debug\LINK LABEL COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LINK_LABEL_COMPLETE.Form1.resources
+obj\Debug\LINK_LABEL_COMPLETE.Resources.resources
+obj\Debug\LINK LABEL COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\LINK LABEL COMPLETE.exe
+obj\Debug\LINK LABEL COMPLETE.xml
+obj\Debug\LINK LABEL COMPLETE.pdb

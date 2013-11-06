@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OVERRIDABLE_AND_OVERRIDES.Resources.resources
+obj\Debug\OVERRIDABLE AND OVERRIDES.vbproj.GenerateResource.Cache
+bin\Debug\OVERRIDABLE AND OVERRIDES.exe
+bin\Debug\OVERRIDABLE AND OVERRIDES.pdb
+bin\Debug\OVERRIDABLE AND OVERRIDES.xml
+obj\Debug\OVERRIDABLE AND OVERRIDES.exe
+obj\Debug\OVERRIDABLE AND OVERRIDES.xml
+obj\Debug\OVERRIDABLE AND OVERRIDES.pdb

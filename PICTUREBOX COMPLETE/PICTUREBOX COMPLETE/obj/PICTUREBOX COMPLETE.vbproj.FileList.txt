@@ -1,0 +1,10 @@
+bin\Debug\PICTUREBOX COMPLETE.exe
+bin\Debug\PICTUREBOX COMPLETE.pdb
+bin\Debug\PICTUREBOX COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PICTUREBOX_COMPLETE.Form1.resources
+obj\Debug\PICTUREBOX_COMPLETE.Resources.resources
+obj\Debug\PICTUREBOX COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\PICTUREBOX COMPLETE.exe
+obj\Debug\PICTUREBOX COMPLETE.xml
+obj\Debug\PICTUREBOX COMPLETE.pdb

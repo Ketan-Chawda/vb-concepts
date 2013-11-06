@@ -1,0 +1,10 @@
+bin\Debug\TRACK-BAR COMPLETE.exe
+bin\Debug\TRACK-BAR COMPLETE.pdb
+bin\Debug\TRACK-BAR COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TRACK_BAR_COMPLETE.Form1.resources
+obj\Debug\TRACK_BAR_COMPLETE.Resources.resources
+obj\Debug\TRACK-BAR COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\TRACK-BAR COMPLETE.exe
+obj\Debug\TRACK-BAR COMPLETE.xml
+obj\Debug\TRACK-BAR COMPLETE.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MYBASE KEYWORD">
+</Property><Property Name="Solution File" Value="Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\MYBASE KEYWORD.sln">
+</Property><Property Name="User Options File" Value="Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\MYBASE KEYWORD.suo">
+</Property><Property Name="Date" Value="April-17-12">
+</Property><Property Name="Time" Value="13:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MYBASE KEYWORD.sln" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MYBASE KEYWORD.suo" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD.suo">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\MYBASE KEYWORD.vbproj" Description="Project file successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\MYBASE KEYWORD.vbproj">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\Form1.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\Form1.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\Form1.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\AssemblyInfo.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Application.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Resources.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Settings.Designer.vb" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Application.myapp" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Settings.settings" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\Form1.resx" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\My Project\Resources.resx" Description="File successfully backed up as Z:\$ IMP\2nd Prior\VNSGU STUDY\VB NET\KEYWORDS\MYBASE KEYWORD\Backup\MYBASE KEYWORD\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\MYBASE KEYWORD.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\MYBASE KEYWORD.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MYBASE KEYWORD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MYBASE KEYWORD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MYBASE KEYWORD" Source="MYBASE KEYWORD\MYBASE KEYWORD.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+bin\Debug\MYBASE KEYWORD.exe
+bin\Debug\MYBASE KEYWORD.pdb
+bin\Debug\MYBASE KEYWORD.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MYBASE_KEYWORD.Resources.resources
+obj\Debug\MYBASE KEYWORD.vbproj.GenerateResource.Cache
+obj\Debug\MYBASE KEYWORD.exe
+obj\Debug\MYBASE KEYWORD.xml
+obj\Debug\MYBASE KEYWORD.pdb
+obj\Debug\MYBASE_KEYWORD.KETAN.resources

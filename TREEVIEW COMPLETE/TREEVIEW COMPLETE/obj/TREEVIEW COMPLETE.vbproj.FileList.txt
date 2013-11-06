@@ -1,0 +1,10 @@
+bin\Debug\TREEVIEW COMPLETE.exe
+bin\Debug\TREEVIEW COMPLETE.pdb
+bin\Debug\TREEVIEW COMPLETE.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TREEVIEW_COMPLETE.Form1.resources
+obj\Debug\TREEVIEW_COMPLETE.Resources.resources
+obj\Debug\TREEVIEW COMPLETE.vbproj.GenerateResource.Cache
+obj\Debug\TREEVIEW COMPLETE.exe
+obj\Debug\TREEVIEW COMPLETE.xml
+obj\Debug\TREEVIEW COMPLETE.pdb
